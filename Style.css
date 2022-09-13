@@ -1,0 +1,38 @@
+body {
+    background-color: #4B4B4B;
+}
+
+.caja {
+    border-radius: 15px;
+background: #969696;
+box-shadow:  6px 6px 0px #626262,
+             -6px -6px 0px #cbcbcb;
+
+margin: 0.5em 0.5em 2em 0.5em ;
+padding: 0.5em 0.5em 2em 0.5em;
+}
+
+
+
+.caja>h1 {
+    color: orange;
+    margin: 0.5em 1em 0.5em 0.5em ;
+}
+
+.caja>h2{
+    color: black;
+    margin: 0em 0.5em 1em 0.5em;
+    padding: auto;
+} 
+
+.caja>p{
+    color: black;
+    margin: 0.5em 2em 0.5em 0.5em;
+    padding: auto;
+}
+
+.caja>ul{
+    color: black;
+    margin: 0.5em 2em 0.5em 0.5em;
+    padding: auto;
+}
